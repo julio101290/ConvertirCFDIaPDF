@@ -16,3 +16,18 @@ C:\Users\julio\Documents\Visual Studio 2013\Projects\LECTOR CFDI\LECTOR CFDI\bin
 C:\Users\julio\Documents\Visual Studio 2013\Projects\LECTOR CFDI\LECTOR CFDI\bin\Debug\SQLite.Designer.pdb
 C:\Users\julio\Documents\Visual Studio 2013\Projects\LECTOR CFDI\LECTOR CFDI\bin\Debug\SQLite.Designer.xml
 C:\Users\julio\Documents\Visual Studio 2013\Projects\LECTOR CFDI\LECTOR CFDI\obj\Debug\LECTOR CFDI.csprojResolveAssemblyReference.cache
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\bin\Debug\LECTOR CFDI.exe.config
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\obj\Debug\LECTOR CFDI.exe
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\obj\Debug\LECTOR CFDI.pdb
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\bin\Debug\LECTOR CFDI.exe
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\bin\Debug\LECTOR CFDI.pdb
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\bin\Debug\SQLite.Designer.pdb
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\bin\Debug\SQLite.Designer.xml
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\bin\Debug\System.Data.SQLite.pdb
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\bin\Debug\System.Data.SQLite.xml
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\bin\Debug\System.Data.SQLite.Linq.pdb
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\bin\Debug\System.Data.SQLite.Linq.xml
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\obj\Debug\LECTOR CFDI.csprojResolveAssemblyReference.cache
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\obj\Debug\LECTOR_CFDI.Form1.resources
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\obj\Debug\LECTOR_CFDI.Properties.Resources.resources
+C:\Users\JulioCesar\Documents\GitHub\ConvertirCFDIaPDF\LECTOR CFDI\LECTOR CFDI\obj\Debug\LECTOR CFDI.csproj.GenerateResource.Cache

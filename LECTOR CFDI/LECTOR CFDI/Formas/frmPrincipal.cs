@@ -58,7 +58,17 @@ namespace LECTOR_CFDI
                 clsConceptos.insertar();
 
             }
-        
+            // SACANDO EL IVA
+
+            MessageBox.Show(factura.Impuestos.totalImpuestosTrasladados.ToString());
+            MessageBox.Show(factura.Impuestos.Traslados.LongLength.ToString());
+
+            
+            
+            MessageBox.Show(factura.Impuestos.Traslados[0].importe.ToString());
+            MessageBox.Show(factura.Impuestos.Traslados[0].impuesto.ToString());
+            MessageBox.Show(factura.Impuestos.Traslados[0].tasa.ToString());
+       
         }
         
     }
