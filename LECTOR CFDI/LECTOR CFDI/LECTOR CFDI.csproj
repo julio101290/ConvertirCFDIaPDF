@@ -57,6 +57,7 @@
     <Compile Include="Clases\classComplemento.cs" />
     <Compile Include="Clases\classConceptos.cs" />
     <Compile Include="Clases\classConexion.cs" />
+    <Compile Include="Clases\classImpuestos.cs" />
     <Compile Include="Formas\frmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>

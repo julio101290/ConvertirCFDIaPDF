@@ -38,6 +38,8 @@ namespace LECTOR_CFDI
 
 
             classComplemento complemento = new classComplemento();
+            MessageBox.Show(factura.Complemento.ToString());
+            
             complemento.strUUID = (factura.Complemento.Any[0].Attributes[3].Value);
             complemento.strVersion = (factura.Complemento.Any[0].Attributes[2].Value);
             complemento.strFechaTimbrado = (factura.Complemento.Any[0].Attributes[4].Value);
@@ -58,16 +60,15 @@ namespace LECTOR_CFDI
                 clsConceptos.insertar();
 
             }
-            // SACANDO EL IVA
+            // GUARDANDO IMPUESTOS
+            classImpuestos clsImpuestos = new classImpuestos();
+            clsImpuestos.strUUID=complemento.strUUID;
+            clsImpuestos.strImpuesto = factura.Impuestos.Traslados[0].impuesto.ToString();
+            clsImpuestos.strTasa =factura.Impuestos.Traslados[0].tasa.ToString();
+            clsImpuestos.strValor = factura.Impuestos.Traslados[0].importe.ToString();
+            clsImpuestos.insertar();
 
-            MessageBox.Show(factura.Impuestos.totalImpuestosTrasladados.ToString());
-            MessageBox.Show(factura.Impuestos.Traslados.LongLength.ToString());
-
-            
-            
-            MessageBox.Show(factura.Impuestos.Traslados[0].importe.ToString());
-            MessageBox.Show(factura.Impuestos.Traslados[0].impuesto.ToString());
-            MessageBox.Show(factura.Impuestos.Traslados[0].tasa.ToString());
+ 
        
         }
         
